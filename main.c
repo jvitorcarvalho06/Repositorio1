@@ -1,3 +1,7 @@
 #include <stdio.h>
 
-//qualquer coisa
+int main(){
+    printf("VT meu pato\n");
+    
+    return 0;
+}
